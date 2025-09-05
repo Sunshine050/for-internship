@@ -68,5 +68,6 @@ A selection of full-stack web and mobile projects demonstrating experience in we
 
 ## 📫 Contact
 
-- GitHub: [Sunshine050](https://github.com/Sunshine050)  
-- Email: your.email@example.com  
+- GitHub: [Sunshine050](https://github.com/internship68)  
+- Email: prapassaro072@gmail.com
+- Phone: 0931324310
